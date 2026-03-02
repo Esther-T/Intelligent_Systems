@@ -79,8 +79,11 @@ A Python script that analyzes subreddit posts for toxic language using a **RoBER
 
 **Purpose:** This project is built for a usable security & privacy research study
 
+**Lesson learned (so far):** 
+<div>
+  <img src="./Chatbot_screenshot.png" width="400">
+</div>
+
 **Status:** This project is still evolving.
 
-**Lesson learned (so far)**:
-![App Screenshot](./Chatbot_screenshot.png)
 
