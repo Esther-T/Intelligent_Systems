@@ -55,6 +55,11 @@ This project was built for hands-on experimentation with:
 - RAG-based architectures
 - Third-party LLM API integrations
 
+### Update to Project
+For comparison, I added a Logistic Regression model trained using gradient descent on a bag of words representation of labeled prompts
+
+### Overall verdict:
+![App Screenshot](./Lesson_Learned1.png)
 ---
 
 ## Project 3 - Toxicity Classifier
