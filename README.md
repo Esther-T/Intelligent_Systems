@@ -56,7 +56,7 @@ This project was built for hands-on experimentation with:
 - Third-party LLM API integrations
 
 ### Update to Project
-For comparison, I added a Logistic Regression model trained using gradient descent on a bag of words representation of labeled prompts
+For comparison, I built (from scratch; see my ML repo) a Logistic Regression model and trained using gradient descent on a bag of words representation of labeled prompts. I added it to the app.
 
 ### Overall verdict:
 ![App Screenshot](./Lesson_Learned1.png)
