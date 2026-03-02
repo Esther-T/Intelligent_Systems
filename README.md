@@ -17,6 +17,9 @@ In the initial setup, I created a friendly AI agent designed to respond briefly 
 
 The quoted text acted as a benign placeholder to make the input appear legitimate, while the instruction following the semicolon injected malicious behavior. As a result, the model’s personality and response style were successfully altered, demonstrating how easily prompt injection can compromise intended system behavior.
 
+Overall verdict:
+![App Screenshot](./MCP_Screenshot.png)
+
 ---
 
 ## Project 2 - Judge: Prompt Security Analyzer
