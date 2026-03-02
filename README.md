@@ -82,5 +82,5 @@ A Python script that analyzes subreddit posts for toxic language using a **RoBER
 **Status:** This project is still evolving.
 
 **Lesson learned (so far)**:
-![App Screenshot](./Chatbot_Screenshot.png)
+![App Screenshot](./Chatbot_screenshot.png)
 
