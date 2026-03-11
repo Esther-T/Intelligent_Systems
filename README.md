@@ -17,6 +17,9 @@ In the initial setup, I created a friendly AI agent designed to respond briefly 
 
 The quoted text acted as a benign placeholder to make the input appear legitimate, while the instruction following the semicolon injected malicious behavior. As a result, the model’s personality and response style were successfully altered, demonstrating how easily prompt injection can compromise intended system behavior.
 
+Overall verdict:
+![App Screenshot](./MCP_Screenshot.png)
+
 ---
 
 ## Project 2 - Judge: Prompt Security Analyzer
@@ -55,6 +58,11 @@ This project was built for hands-on experimentation with:
 - RAG-based architectures
 - Third-party LLM API integrations
 
+### Update to Project
+For comparison, I built (from scratch; see my ML repo) a Logistic Regression model and trained using gradient descent on a bag of words representation of labeled prompts. I added it to the app.
+
+### Overall verdict:
+![App Screenshot](./Lesson_Learned1.png)
 ---
 
 ## Project 3 - Toxicity Classifier
@@ -62,3 +70,20 @@ This project was built for hands-on experimentation with:
 A Python script that analyzes subreddit posts for toxic language using a **RoBERTa-based toxicity classifier** from HuggingFace.
 
 **Status:** This project is still evolving.
+
+---
+
+## Project 4 - Interactive AI Chatbot
+
+**Live demo:** https://esther-t.github.io/ShiroBot/
+
+**Purpose:** This project is built for a usable security & privacy research study
+
+**Lesson learned (so far):** 
+<div>
+  <img src="./Chatbot_screenshot.png" width="400">
+</div>
+
+**Status:** This project is still evolving.
+
+
