@@ -61,6 +61,8 @@ This project was built for hands-on experimentation with:
 ### Update to Project
 For comparison, I built (from scratch; see my ML repo) a Logistic Regression model and trained using gradient descent on a bag of words representation of labeled prompts. I added it to the app.
 
+I also added a rule-based text classifier by matching input text against a predefined set of keyword patters, then applyng logical rules to return the final verdict. This was first prototyped in Prolog to demonstrate rule-based reasoning then rewritten in Python for practical server-side deployment. 
+
 ### Overall verdict:
 ![App Screenshot](./Lesson_Learned1.png)
 ---
