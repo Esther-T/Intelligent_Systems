@@ -1,6 +1,6 @@
 # Character Analyzer
 
-CharacterGuard is a safety evaluation platform for AI characters created on platforms like Character.AI, Janitor AI, and Chai AI. Content creators upload a character description and conversation transcripts, and the platform scores how safe the character's responses are across 16 harm categories drawn from the SALAD-Bench research framework (arxiv 2512.01247).
+Character Analyzer is a safety evaluation platform for AI characters created on platforms like Character.AI, Janitor AI, and Chai AI. Content creators upload a character description and conversation transcripts, and the platform scores how safe the character's responses are across 16 harm categories drawn from the SALAD-Bench research framework (arxiv 2512.01247).
 
 This is a Python FastAPI application. 
 The live instance is hosted on Render at https://charactergaurd-1.onrender.com/. 
