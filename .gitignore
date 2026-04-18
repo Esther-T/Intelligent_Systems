@@ -6,3 +6,7 @@ Agents/mcp_agent_env/Scripts/
 Agents/__pycache__/
 Agents/jailbreak.json
 Toxicity_Classifiers/env/
+Agents/chatbot_AI/chatbot_interface/chatbot_interface/build/
+Agents/chatbot_AI/chatbot_interface/chatbot_interface/node_modules/
+Agents/chatbot_AI/chatbot_back/__pycache__/
+Agents/chatbot_AI/chatbot_back/venv/

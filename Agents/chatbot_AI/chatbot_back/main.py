@@ -6,7 +6,7 @@ from ai import generate_text, generate_image
 app = FastAPI()
 
 origins = [
-    "http://localhost:3000",
+    "https://esther-t.github.io",
 ]
 
 app.add_middleware(

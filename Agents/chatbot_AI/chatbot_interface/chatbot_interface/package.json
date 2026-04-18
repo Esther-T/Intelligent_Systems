@@ -12,16 +12,13 @@
     "react-bootstrap": "^2.10.10",
     "react-dom": "^19.2.3",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://esther-t.github.io/prompt-analyzer-app/",
-
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy": "gh-pages -d dist -r https://github.com/Esther-T/prompt-analyzer-app.git"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
