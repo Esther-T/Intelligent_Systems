@@ -92,4 +92,12 @@ A Python script that analyzes subreddit posts for toxic language using a **RoBER
 
 **Status:** This project is still evolving.
 
+## Project 5 - CharaLab
+
+**Live demo:**: https://esther-t.github.io/CharaLab/
+
+**Purpose:"** This is a safety evaluation platform for AI characters created on platforms like Character.AI, Janitor AI, and Chai AI. Content creators upload a character description and conversation transcripts, and the platform scores how safe the character's responses are across 16 harm categories drawn from the SALAD-Bench research framework (arxiv 2512.01247)
+
+**Status:** This project is still evolving. See https://github.com/Esther-T/Intelligent_Systems/tree/master/Agents/character-analyzer for further documentation about the backend.
+
 
